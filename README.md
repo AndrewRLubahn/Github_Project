@@ -1,8 +1,11 @@
 # Github_Project
-Bike Share Data 
+Bike Share Data
 
 Date Created
 July 14 2019
+
+Date Finished
+July 25 2019
 
 Project Title
 Bike Share Data 2019 Udacity Final Project
@@ -15,3 +18,4 @@ Explore US Bikeshare data, Optionally:included 3 cities worth of bike share data
 
 Credits
 Udacity Data Science course.
+Anjuli Jones 
